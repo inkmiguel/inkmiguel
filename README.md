@@ -4,8 +4,6 @@ I'm in my second year of a Computer Science degree at "Universidad del Noreste".
 I hope to continue learning about programming, and in the near future,
 I would like to learn Unreal Engine and get a good job
 
->[!NOTE]
-I work for a Nintendo Switch 2
 
 <h4>My skills </h4>
 
